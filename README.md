@@ -1,5 +1,4 @@
 # chat_bot
-An advanced AI chatbot project enabling natural and meaningful conversations with customizable responses.
 AI Chat_bot
 Welcome to the AI Chat_bot project! This repository houses an innovative AI-powered chatbot that aims to revolutionize the way we interact online. The chatbot utilizes advanced natural language processing techniques and machine learning algorithms to provide personalized and intelligent responses to user queries.
 
@@ -17,11 +16,16 @@ To experience the AI Chat_bot, follow these steps:
 
 Installation: Clone this repository to your local machine or download the source code.
 
-Dependencies: Ensure you have the necessary dependencies installed. The requirements are listed in the requirements.txt file.
+Dependencies: Ensure you have the necessary dependencies installed. 
+To use the AI Chat_bot, you'll need the following dependencies:
+
+- Node.js: Install Node.js by visiting the official website: [https://nodejs.org](https://nodejs.org). Follow the instructions for your specific operating system.
+
+- Vanilla: The chatbot leverages the Vanilla JavaScript library..
 
 Configuration: Customize the chatbot's behavior by modifying the configuration files, such as language settings, response templates, and conversation rules.
 
-Training: If desired, you can train the chatbot using your own dataset to improve its performance. Detailed instructions can be found in the training/README.md file.
+Training: If desired, you can train the chatbot using your own dataset to improve its performance.
 
 Run: Launch the chatbot by running the main script. You can interact with the chatbot via the command-line interface or integrate it into your own applications using the provided API endpoints.
 
